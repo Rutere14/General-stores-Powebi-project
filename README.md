@@ -68,6 +68,7 @@ The data used in this project spans the time period of four years from 01/01/201
 - **Business Stakeholders:** Executives, managers, and decision-makers seeking a comprehensive understanding of sales performance and customer behaviour.
 - **Marketing Teams:** Analyzing product trends, promotional effectiveness, and customer segmentation.
 - **Sales Teams:** Identifying top-performing City, state, Region, Categories, and opportunities for improvement.
+  
 **The dashboard is designed to help users achieve the following objectives:**
 - Gain insights into overall sales trends and patterns.
 - Identify top-performing states/City and products.
