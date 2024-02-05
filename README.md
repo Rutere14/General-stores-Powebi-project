@@ -3,7 +3,7 @@
 
 # About
 
-This Power BI project delves into the comprehensive analysis of sales data from a general store. The primary objectives are to uncover insights into the store's performance, product trends, and customer behaviour. By thoroughly examining the sales dataset, the project aims to identify areas for sales strategy improvement and optimization.
+This Power BI project delves into the comprehensive analysis of sales data from a general store. The primary objectives are to uncover insights into the store's performance, product trends, and customer behavior. By thoroughly examining the sales dataset, the project aims to identify areas for sales strategy improvement and optimization.
 
 
 
@@ -26,14 +26,14 @@ The dataset comprises 21 columns and 9,995 rows, offering a substantial volume o
 |Ship Mode| Mode of shipping | 
 |Customer ID | unique identifier for each Customer | 
 | Customer Name| Names of the customer | 
-| Segment| consumer, corporate or home office |
+| Segment| consumer, corporate, or home office |
 | Country| Name of the Country | 
 |City | Name of the City | 
 |State | Name of the state | 
 |Postal Code | Postal code identifier | 
 | Region| Central, East, South and West |
 |Product ID| Product identifier|
-|Category | Furniture, Office supplies and Technology|
+|Category | Furniture, Office Supplies and Technology|
 |Sub-Category | Category break down e.g. table & chairs|
 |Product Name | specific name of the product | 
 | Sales | Sales made |
@@ -54,9 +54,9 @@ The dataset comprises 21 columns and 9,995 rows, offering a substantial volume o
 
 
 # Approach used.
-**1. Data Wrangling:** This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
+**1. Data Wrangling:** This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace missing or NULL values.
 
-**2. Feature Engineering:** This will help use generate some new columns from existing ones.
+**2. Feature Engineering:** This will help us generate some new columns from existing ones.
 
 **3. Exploratory Data Analysis (EDA):** Exploratory data analysis is done to answer the listed questions and aims of this project.
 ## Time Period of the Project.
@@ -65,14 +65,14 @@ The data used in this project spans the time period of four years from 01/01/201
 
 ## Target audience for the data viz/dashboard & Purpose
 **The primary audience for this data visualization/dashboard includes:**
-- **Business Stakeholders:** Executives, managers, and decision-makers seeking a comprehensive understanding of sales performance and customer behaviour.
+- **Business Stakeholders:** Executives, managers, and decision-makers seeking a comprehensive understanding of sales performance and customer behavior.
 - **Marketing Teams:** Analyzing product trends, promotional effectiveness, and customer segmentation.
-- **Sales Teams:** Identifying top-performing City, state, Region, Categories, and opportunities for improvement.
+- **Sales Teams:** Identifying top-performing Cities, states, Regions, Categories, and opportunities for improvement.
   
 **The dashboard is designed to help users achieve the following objectives:**
 - Gain insights into overall sales trends and patterns.
-- Identify top-performing states/City and products.
-- Understand customer behaviour and preferences.
+- Identify top-performing states/Cities and products.
+- Understand customer behavior and preferences.
 - Optimize sales strategies and marketing campaigns.
 
 # Tools Used 
@@ -90,7 +90,7 @@ The design of the dashboard takes into consideration the following factors:
 - Technology was the most profitable category with $145k in profit.
 
 - Copiers were the most profitable sub-categories with $25,204k in profit.
-- Consumer segment had the highest sales of the three with $406,400 in sales.
+- The consumer segment had the highest sales of the three with $406,400 in sales.
 - California had the highest sales of $159,271 among other states.
 - October 2016 recorded the highest profit during the entire period of four years with a profit of $11,708.
 - The Average shipping period was four days. 
